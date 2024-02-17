@@ -3,7 +3,7 @@ I'm currently in my third year of Physics bachelor's degree. I fell in love with
 
 • 💻 I'm currently enrolled in Mobile (Android) Development Path at Bangkit Academy 2024 Batch-1<br>
 • 👽 I'm learning Android development, Data structures, and Algorithms at the momment<br>
-• 👐 i'm looking for internship opportunity. If you're hiring, let's chat! Email: <kevin.jeremia.pontoh@gmail.com> or [LinkedIn](https://www.linkedin.com/in/kevinj-pontoh/)
+• 👐 I'm looking for internship opportunity. If you're hiring, let's chat! Email: <kevin.jeremia.pontoh@gmail.com> or [LinkedIn](https://www.linkedin.com/in/kevinj-pontoh/)
 
 <!--
 **kevinjeremia/kevinjeremia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
